@@ -12,3 +12,5 @@ This program establishes a decoupled data framework designed to ingest raw, mult
 ##  Core Operational Metrics Captured
 * **Delivery SLA Accuracy (%):** Evaluates successful delivery completions against total volume metrics.
 * **Network Physical Dimensions:** Synthesizes rolling averages for package weights and transit vectors grouped by transportation modes (`KARA`, `HAVA`, `DENİZ`).
+
+Data Extracted from: https://www.kaggle.com/datasets/sezginkaraglle/logistics-dataset?resource=download
