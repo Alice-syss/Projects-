@@ -5,7 +5,7 @@ def run_logistics_pipeline():
     print("=== STARTING TECHNICAL PROGRAM: DATA INGESTION ===")
     
     try:
-        csv_file = "C:/Users/rania/Downloads/archive (1)/logistics_classification_dataset.csv"
+        csv_file = "(Path)"
         df = pd.read_csv(csv_file)
         print(f"✓ Ingestion Success: Loaded {len(df)} operational records.")
     except Exception as e:
